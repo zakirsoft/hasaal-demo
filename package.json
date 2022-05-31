@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "hasaal",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
@@ -8,10 +8,10 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.1",
-    "postcss": "^8.3.6",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
     "standard-version": "^9.3.1",
-    "tailwindcss": "^2.2.7",
+    "tailwindcss": "^3.0.24",
     "vite": "^2.4.4"
   }
 }
